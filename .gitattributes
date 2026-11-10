@@ -1,0 +1,2 @@
+# Empreintes de sauvegarde : fin de ligne Unix, sinon « sha256sum -c » ne lit plus le nom du fichier
+*.sha256 text eol=lf

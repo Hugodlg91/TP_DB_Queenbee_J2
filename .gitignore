@@ -1,0 +1,3 @@
+# La sauvegarde ne se commite pas (gros fichier, données personnelles) : seule son empreinte .sha256 l'est.
+queenbee_j2.dump
+*.dump
